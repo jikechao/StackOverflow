@@ -15,5 +15,5 @@ public class Constants {
 	/**
 	 * TODO Put here a description of this field.
 	 */
-	public static final String STOP_WORDS_FILE_NAME = new String("E:\\编码\\J2EProjects\\stackoverflow2\\src\\main\\resources\\stopwords.txt");
+	public static final String STOP_WORDS_FILE_NAME = new String(".\\src\\main\\resources\\stopwords.txt");
 }

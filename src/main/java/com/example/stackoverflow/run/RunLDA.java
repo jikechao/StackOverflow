@@ -71,7 +71,6 @@ public class RunLDA {
 //		docs.add(d5);
 //		docs.add(d6);
 		docs.add(d7);
-		
 		LDA lda = new LDA(numTopics, docs);
 		lda.runLDA(100);
 		//System.out.println(lda.getTopicDocProbability(0, 0));
@@ -128,7 +127,7 @@ public class RunLDA {
 		docs.add(d7);
 		docs.add(d8);
 		docs.add(d9);
-		docs.add(d10);		
+		docs.add(d10);
 		docs.add(d11);
 		docs.add(d12);
 		docs.add(d13);
